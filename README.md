@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Dia</h1>
+<h3 align="center">✨ Crafting code with creativity, curiosity, and caffeine ☕</h3>
 
 <!--
 **dalaldia5/dalaldia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
