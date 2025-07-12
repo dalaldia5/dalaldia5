@@ -20,7 +20,7 @@
 - 🧠 MUNer | 🗣️ Debater | 🏅 Ex-Vice Head Girl
 - 🛡️ Life-learner aiming to build tech that matters
 
-📬 Reach out: [LinkedIn](https://www.linkedin.com/in/dia-dalal-63280b23b/) | [Email Me](dia140706@gmail.com)  
+📬 Reach out: [LinkedIn](https://www.linkedin.com/in/dia-dalal-63280b23b/) | [Email Me](mailto:dia140706@gmail.com)  
 🎈 Fun fact: I find joy in transforming ideas into code — and I never miss a good badminton match! 🏸
 
 </td>
