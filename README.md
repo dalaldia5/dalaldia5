@@ -86,7 +86,7 @@
 <a href="https://www.linkedin.com/in/dia-dalal-63280b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dia-dalal-63280b23b/" height="30" width="40" /></a>
 <a href="https://instagram.com/diaaa14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diaaa14_" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/dalal_dia5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dalal_dia5" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/luna_714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luna_714" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lunaaa_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luna_714" height="30" width="40" /></a>
 </p>
 
 
