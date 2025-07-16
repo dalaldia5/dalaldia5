@@ -17,7 +17,7 @@
 - 🛠️ Code Crafting in **C++**, **JavaScript**, and fullstack **web projects**
 - 🎨 UI building with **HTML, CSS, and JavaScript** (Spotify clone in progress!)
 - 🧠 450+ coding challenges solved (and counting!) across various platforms
-- 🧠 MUNer | 🗣️ Debater | 🏅 Ex-Vice Head Girl
+- 🧠 MUNer | 🗣️ Debater 
 - 🛡️ Life-learner aiming to build tech that matters
 
 📬 Reach out: [LinkedIn](https://www.linkedin.com/in/dia-dalal-63280b23b/) | [Email Me](mailto:dia140706@gmail.com)  
