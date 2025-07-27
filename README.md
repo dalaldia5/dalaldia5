@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
 
@@ -63,11 +63,11 @@
 
   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=dalaldia5&theme=radical)
 
- <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalaldia5&layout=compact&theme=radical) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalaldia5&layout=compact&theme=radical) 
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=dalaldia5&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
