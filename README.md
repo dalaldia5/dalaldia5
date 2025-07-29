@@ -16,7 +16,7 @@
 🛠️ **What I bring to the table:**
 - 🛠️ Code Crafting in **C++**, **JavaScript**, and fullstack **web projects**
 - 🎨 UI building with **HTML, CSS, and JavaScript** (Spotify clone in progress!)
-- 🧠 450+ coding challenges solved (and counting!) across various platforms
+- 🧠 500+ coding challenges solved (and counting!) across various platforms
 - 🧠 MUNer | 🗣️ Debater 
 - 🛡️ Life-learner aiming to build tech that matters
 
